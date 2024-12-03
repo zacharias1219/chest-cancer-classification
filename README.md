@@ -33,6 +33,7 @@ This project showcases an **end-to-end deep learning implementation** for classi
 
 ## **Directory Structure**
 
+```bash
 ├── app
 │   ├── api
 │   ├── pipeline
@@ -48,6 +49,7 @@ This project showcases an **end-to-end deep learning implementation** for classi
 ├── notebooks
 │   └── experiment_notebooks
 └── requirements.txt
+```
 
 ---
 
