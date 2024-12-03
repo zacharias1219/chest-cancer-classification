@@ -1,6 +1,6 @@
-from CNNClassification.config.configuration import ConfigurationManager
-from CNNClassification.components.model_trainer import Training
-from CNNClassification import logger
+from src.CNNClassification.config.configuration import ConfigurationManager
+from src.CNNClassification.components.model_trainer import Training
+from src.CNNClassification import logger
 
 
 

@@ -1,8 +1,8 @@
-from CNNClassification import logger
-from CNNClassification.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-from CNNClassification.pipeline.stage_02_prepare_base_model import PrepareBaseModelTrainingPipeline
-from CNNClassification.pipeline.stage_03_model_trainer import ModelTrainingPipeline
-from CNNClassification.pipeline.stage_04_model_evaluation import EvaluationPipeline
+from src.CNNClassification import logger
+from src.CNNClassification.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
+from src.CNNClassification.pipeline.stage_02_prepare_base_model import PrepareBaseModelTrainingPipeline
+from src.CNNClassification.pipeline.stage_03_model_trainer import ModelTrainingPipeline
+from src.CNNClassification.pipeline.stage_04_model_evaluation import EvaluationPipeline
 
 
 

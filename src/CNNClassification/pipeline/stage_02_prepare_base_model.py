@@ -1,6 +1,6 @@
-from CNNClassification.config.configuration import ConfigurationManager
-from CNNClassification.components.prepare_base_model import PrepareBaseModel
-from CNNClassification import logger
+from src.CNNClassification.config.configuration import ConfigurationManager
+from src.CNNClassification.components.prepare_base_model import PrepareBaseModel
+from src.CNNClassification import logger
 
 
 
