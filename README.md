@@ -150,6 +150,14 @@ This project showcases an **end-to-end deep learning implementation** for classi
 
 ---
 
+## **Images**
+
+![Screenshot 2024-12-04 095826](https://github.com/user-attachments/assets/69a5d9a1-b4ea-4af2-b747-c8cae0f6f8b5)
+
+![Screenshot 2024-12-04 100112](https://github.com/user-attachments/assets/45ecd4b6-e0d4-49fe-a4f9-042b707e2fbf)
+
+---
+
 ## **Contributing**
 
 We welcome contributions! Please fork the repository and submit a pull request.
